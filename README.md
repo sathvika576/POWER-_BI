@@ -2,42 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Power BI End-to-End Module</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      line-height: 1.6;
-      color: #333;
-    }
-    h1, h2, h3 {
-      color: #005a9c;
-    }
-    code {
-      background-color: #f4f4f4;
-      padding: 2px 4px;
-      border-radius: 4px;
-    }
-    pre {
-      background-color: #f9f9f9;
-      border-left: 3px solid #ccc;
-      padding: 10px;
-      overflow-x: auto;
-    }
-    ul {
-      list-style-type: square;
-      margin-left: 20px;
-    }
-    .folder-structure {
-      font-family: monospace;
-      background-color: #f1f1f1;
-      padding: 10px;
-      white-space: pre;
-    }
-    hr {
-      margin: 30px 0;
-    }
-  </style>
+
+  
 </head>
 <body>
 
@@ -61,18 +27,7 @@
 
   <hr>
 
-  <h2>📁 Project Structure</h2>
-
-  <div class="folder-structure">
-powerbi-end-to-end/
-│
-├── Data/                   # Sample source files (Excel, CSV, etc.)
-├── PBIX/                   # Power BI Desktop files
-├── Screenshots/            # Report UI screenshots
-├── Docs/                   # Documentation (PDFs, notes)
-├── Deployment/             # Power BI Service deployment guidelines
-└── README.html             # This file!
-  </div>
+  
 
   <hr>
 
